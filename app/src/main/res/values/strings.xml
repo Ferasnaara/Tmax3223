@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tmax</string>
+    <item name="IVPreviewImage" type="id" />
+</resources>
